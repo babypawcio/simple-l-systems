@@ -116,7 +116,7 @@ void printing_trinagle(int *tab)
         {
             if(*tab == 1)
             {
-                printf("#");
+                printf("7");
             }
             else
             {
