@@ -121,6 +121,4 @@ void dynamics(char *algae_tab)
 
         printf("\n");
     }
-
-    printf("\n");
 }
